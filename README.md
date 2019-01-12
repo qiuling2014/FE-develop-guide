@@ -8,6 +8,7 @@
 ## 跨域
 
 * [九种 “姿势” 让你彻底解决跨域问题](https://segmentfault.com/a/1190000016653873)
+* [前端跨域问题解决方案(基于node与nginx)](https://juejin.im/post/5c35f6286fb9a049be5dad82?utm_source=gold_browser_extension)
 
 
 ## 正则
