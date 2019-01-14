@@ -4,6 +4,9 @@
 
 * [CSS灵感](https://github.com/chokcoco/CSS-Inspiration?utm_source=gold_browser_extension)
 
+## JavaScript
+
+* [JavaScript工程师都应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 
 ## 跨域
 
