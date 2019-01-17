@@ -5,7 +5,7 @@
 * [CSS常见布局方式](https://juejin.im/post/599970f4518825243a78b9d5)
 * [CSS灵感](https://github.com/chokcoco/CSS-Inspiration?utm_source=gold_browser_extension)
 * [CSS预处理的区别的深度比较 - Stylus/Sass/Less](https://www.jianshu.com/p/b2174b800e40)
-
+* [CSS 奇技淫巧](https://github.com/chokcoco/iCSS)
 
 ## JavaScript
 
