@@ -2,10 +2,13 @@
 
 ## CSS
 
+* [学习CSS布局](http://zh.learnlayout.com/)
 * [CSS常见布局方式](https://juejin.im/post/599970f4518825243a78b9d5)
 * [CSS灵感](https://github.com/chokcoco/CSS-Inspiration?utm_source=gold_browser_extension)
 * [CSS预处理的区别的深度比较 - Stylus/Sass/Less](https://www.jianshu.com/p/b2174b800e40)
 * [CSS 奇技淫巧](https://github.com/chokcoco/iCSS)
+* [CSS Tricks](https://github.com/QiShaoXuan/css_tricks)
+* [CSS 黑魔法小技巧](https://mp.weixin.qq.com/s/k3OL5StXOv1igh26lLIHlg)
 
 
 ## JavaScript
@@ -25,7 +28,7 @@
 ## 正则
 
 * [JS正则表达式完整教程](https://juejin.im/post/5965943ff265da6c30653879)
-
+* [学习正则表达式的简单方法](https://github.com/cdoco/learn-regex-zh)
 
 ## NPM
 
@@ -52,6 +55,7 @@
 # PWA
 
 * [PWA 的探索与最佳实践](https://juejin.im/entry/5ae1861af265da0b886d1ea8)
+* [PWA实战：面向下一代的Progressive Web APP](https://github.com/SangKa/PWA-Book-CN)
 
 
 ## 算法与数据结构
@@ -69,6 +73,7 @@
 ## 前端工程化
 
 * [大公司里怎样开发和部署前端代码](https://www.zhihu.com/question/20790576/answer/32602154)
+* [webpack 好文章](https://github.com/webpack-china/awesome-webpack-cn)
 
 
 ## 前端规范
@@ -79,3 +84,4 @@
 ## 拓展学习
 
 * [9102 年了，学点 Docker 知识](https://juejin.im/post/5c2c69cee51d450d9707236e?utm_source=gold_browser_extension)
+* [用前端 最舒服的躺姿 "搞定" Flutter](https://juejin.im/post/5c41af466fb9a04a0e2d7d51?utm_source=gold_browser_extension)
