@@ -9,6 +9,7 @@
 * [CSS 奇技淫巧](https://github.com/chokcoco/iCSS)
 * [CSS Tricks](https://github.com/QiShaoXuan/css_tricks)
 * [CSS 黑魔法小技巧](https://mp.weixin.qq.com/s/k3OL5StXOv1igh26lLIHlg)
+* [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/zh-cn/introduce?v=1)
 
 
 ## JavaScript
