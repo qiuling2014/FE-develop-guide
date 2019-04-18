@@ -10,6 +10,8 @@
 * [CSS Tricks](https://github.com/QiShaoXuan/css_tricks)
 * [CSS 黑魔法小技巧](https://mp.weixin.qq.com/s/k3OL5StXOv1igh26lLIHlg)
 * [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/zh-cn/introduce?v=1)
+* [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+* [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 
 
 ## JavaScript
@@ -18,7 +20,7 @@
 * [JavaScript工程师都应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 * [手写Promise教程](https://juejin.im/post/5b2f02cd5188252b937548ab)
 * [JavaScript深拷贝vs浅拷贝](https://juejin.im/post/59ac1c4ef265da248e75892b)
-
+* [ES6、ES7、ES8、ES9、ES10新特性一览](https://juejin.im/post/5ca2e1935188254416288eb2)
 
 ## 跨域
 
@@ -80,6 +82,11 @@
 ## 前端规范
 
 * [前端开发规范：命名规范、html规范、css规范、js规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)
+
+
+## 前端安全
+
+* [web安全攻击手段有哪些？以及如何防范](https://juejin.im/post/5c47e6efe51d45098e4d9213?utm_source=gold_browser_extension)
 
 
 ## 拓展学习
