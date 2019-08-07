@@ -82,6 +82,7 @@
 ## 前端规范
 
 * [前端开发规范：命名规范、html规范、css规范、js规范](https://juejin.im/post/592d4a5b0ce463006b43b6da)
+* [使用eslint+husky+lint-staged+prettier构建统一的代码风格及代码检查工作流](https://github.com/willson-wang/Blog/issues/46)
 
 
 ## 前端安全
